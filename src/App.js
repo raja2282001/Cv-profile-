@@ -21,7 +21,7 @@ function App() {
        <Header/>
        <Navigation/>
        <Routes>
-          <Route path="/" element={<Container/>} />
+          <Route path="/cv" element={<Container/>} />
           <Route path="/container" element={<Container/>} />
           <Route path="/about" element={<About/>} />
           <Route path="/resume" element={<Resume/>} />
