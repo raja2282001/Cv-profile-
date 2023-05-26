@@ -31,11 +31,11 @@ complete the project on time.</p>
                     <li><span>Name</span> : Patel Parth</li>
                 </ul>
                 <ul class="social-icons pt-3">
-                    <li class="social-item"><a class="social-link" href="#"><i class="ti-facebook" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="#"><i class="ti-twitter" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="#"><i class="ti-google" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="#"><i class="ti-instagram" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="#"><i class="ti-github" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-dark" href="https://www.facebook.com/patel.raja.79827803?mibextid=ZbWKwL" target="_thapa"><i class="ti-facebook" aria-hidden="true"></i></a></li>
+                            {/* <li class="social-item"><a class="social-link text-dark" href="#"><i class="ti-twitter" aria-hidden="true"></i></a></li> */}
+                            <li class="social-item"><a class="social-link text-dark" href="https://www.linkedin.com/in/patel-parth-04670b247" target="_thapa"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://instagram.com/ll__patel_raja_ll?igshid=NGExMmI2YTkyZg==" target="_thapa"><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://github.com/raja2282001" target="_thapa"><i class="ti-github" aria-hidden="true"></i></a></li>
                 </ul>  
             </div>
             <div class="col-lg-4 about-card">
