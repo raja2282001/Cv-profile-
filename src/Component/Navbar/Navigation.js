@@ -25,7 +25,7 @@ export const Navigation = () => {
                     </li>
                 </ul>
                 <ul class="navbar-nav brand">
-                    <img src="assets/imgs/avatar.jpg" alt="" class="brand-img"/>
+                    <img src={require("../../imgs/avatar.jpg")} alt="" class="brand-img"/>
                     <li class="brand-txt">
                         <h5 class="brand-title">Patel Parth</h5>
                         <div class="brand-subtitle">Frond end Backend |Web Developer</div>

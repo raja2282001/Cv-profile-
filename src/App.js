@@ -9,7 +9,8 @@ import {Routes, Route } from "react-router-dom";
 import { About } from './Component/Navbar/About';
 import { Resume } from './Component/Navbar/Resume';
 import { Contact } from './Component/Navbar/Contact';
-
+import "./CSS/johndoe.css"
+import "./CSS/themify-icons.css"
 
 function App() {
   return (
