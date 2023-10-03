@@ -1,8 +1,13 @@
 import React from 'react'
+import { Helmet } from 'react-helmet'
 
 export const Contact = () => {
   return (
     <div>
+        <Helmet>
+            <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css"/>
+            <link rel="stylesheet" href="assets/css/johndoe.css"/>
+        </Helmet>
         <div class="section contact" id="contact">
         <div class="container">
             <div class="row">
