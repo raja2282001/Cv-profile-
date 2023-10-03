@@ -13,7 +13,7 @@ export const Contact = () => {
             <div class="row">
                 <div class="col-lg-8">
                     <div class="contact-form-card">
-                        <img src={require("../../imgs/blog3.jpg")} alt="" id='img'/>
+                    <img src="assets/imgs/blog3.jpg" alt="" id='img'/>
                         {/* <form action="">
                             <div class="form-group">
                                 <input class="form-control" type="text" placeholder="Name *" required="">
